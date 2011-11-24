@@ -1,0 +1,13 @@
+Source: python-webqq
+Section: net
+Priority: extra
+Maintainer: Li Longyu <leaeasy@gmail.com>
+Build-Depends: debhelper (>= 8.0.0), python (>= 2.6.6-3~)
+Standards-Version: 3.9.2
+Homepage: http://code.google.com/p/python-webqq/
+
+Package: pywebqq
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}, python-notify, python-keybinder, python-ctypeslib, python-webkit, python-glade2
+Description: Webqq client write by python
+ A webqq desktop client based on python and python-webkit.

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/9/trunk/python-webqq/src
+END
+pywebqq.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8/trunk/python-webqq/src/pywebqq.py
+END
+config.glade
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9/trunk/python-webqq/src/config.glade
+END
+configwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9/trunk/python-webqq/src/configwindow.py
+END
+QQ1.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/python-webqq/src/QQ1.png
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/python-webqq/src/utils.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/9/trunk/python-webqq/src/config.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/python-webqq/src/widgets.py
+END
+unitytray.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/python-webqq/src/unitytray.py
+END
+webqqview.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9/trunk/python-webqq/src/webqqview.py
+END
+mainwindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/python-webqq/src/mainwindow.py
+END
+WebQQ.conf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/9/trunk/python-webqq/src/WebQQ.conf
+END
+QQ.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/3/trunk/python-webqq/src/QQ.png
+END
+tray.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3/trunk/python-webqq/src/tray.py
+END
+inifile.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/python-webqq/src/inifile.py
+END
+const.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3/trunk/python-webqq/src/const.py
+END
